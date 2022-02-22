@@ -1,6 +1,7 @@
 The data used for analysis is a database that contains posts by reddit users corresponding to different personality types. The database can be accessed on kaggle. 
 This is a free, open source, public domain dataset. We will create a personality finder application where a user can enter any set of words that describes themselves.
 The application will run the compute a similarity score of the user entered text with the various entries from the personality type database to predict the personality type (one of 16 Myers Briggs personalities). 
-It will also predict the likelihood of the four Myers Briggs characteristics such as Introverted/Extraverted, Intuitive/Observant, Thinking/Feeling and Judging Judging/Perceiving. The video below shows the final application in action. The application will show the top 5 predictions with the similarity scores so the user knows a spectrum of personalities that fit her or him.
+It will also predict the likelihood of the four Myers Briggs characteristics such as Introverted/Extraverted, Intuitive/Observant, Thinking/Feeling and Judging Judging/Perceiving.
+The application will show the top 5 predictions with the similarity scores so the user knows a spectrum of personalities that fit her or him.
 
 
