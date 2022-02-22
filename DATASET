@@ -4,4 +4,4 @@ The application will run the compute a similarity score of the user entered text
 It will also predict the likelihood of the four Myers Briggs characteristics such as Introverted/Extraverted, Intuitive/Observant, Thinking/Feeling and Judging Judging/Perceiving.
 The application will show the top 5 predictions with the similarity scores so the user knows a spectrum of personalities that fit her or him.
 
-
+ 
